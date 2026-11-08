@@ -177,17 +177,48 @@ Performed data collection, preprocessing, and exploratory data analysis using Py
 
 ---
 
-## 📊 GitHub Analytics
+## ⚔️ PLAYER STATUS — DEVELOPER SYSTEM
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hemankumar2501&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F0A&height=100&section=header&text=PLAYER%20STATISTICS&fontSize=35&fontColor=ADFF2F&animation=fadeIn&stroke=ADFF2F&strokeWidth=1" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemankumar2501&layout=compact&theme=tokyonight&hide_border=true" />
+### 「 HEMANKUMAR C — THE AI ENGINEER 」
+
+**PLAYER CLASS:** AI DEVELOPER  
+**GUILD:** INDEPENDENT DEVELOPER  
+**RANK:** AWAKENING
+
+<br/>
+
+### 📜 CHARACTER ATTRIBUTES
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hemankumar2501&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=ADFF2F&icon_color=ADFF2F" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemankumar2501&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=ADFF2F" />
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Hemankumar2501&theme=tokyonight&hide_border=true" />
+### 🔥 DAILY TRAINING — CONTRIBUTION STREAK
+
+<img width="85%" src="https://streak-stats.demolab.com?user=Hemankumar2501&theme=dark&hide_border=true&ring=ADFF2F&fire=ADFF2F&currStreakLabel=ADFF2F&sideLabels=ADFF2F&dates=AAAAAA" />
+
+<br/><br/>
+
+### 🗺️ EXPERIENCE MAP — CONTRIBUTION QUESTS
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hemankumar2501&bg_color=0B0F0A&color=ADFF2F&line=ADFF2F&point=FFFFFF&area=true&hide_border=true" />
+
+<br/>
+
+### 🏆 ACHIEVEMENT ARCHIVE
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hemankumar2501&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+<br/>
+
+**「 THE SYSTEM IS ALWAYS WATCHING. KEEP LEVELING UP. 」**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ADFF2F,100:0B0F0A&height=100&section=footer" />
 
 </div>
 
