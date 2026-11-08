@@ -116,6 +116,7 @@ An AI-driven tourism analytics solution designed to analyze travel trends, desti
 [🔗 Explore Repository](https://github.com/Hemankumar2501/Smart-Tourism-AI-Platform)
 
 ### 03. TruthLens AI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:123B68&height=90&text=TRUTHLENS%20AI%20&fontSize=28&fontColor=00D4FF" />
 
 An AI-focused project exploring intelligent information analysis and AI-powered solutions.
 
