@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Hemankumar C
-
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123B68,100:00D4FF&height=240&section=header&text=HEMANKUMAR%20C&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER%20%7C%20AI%20DEVELOPER&descSize=17&descAlignY=58&animation=twinkling" />
 
