@@ -1,50 +1,183 @@
-<h1 align="center">Hi 👋, I'm Hemankumar</h1>
-<h3 align="center">BTech AI & Data Science Student | Building Intelligent & Interactive Solutions 🚀</h3>
+# 👋 Hi, I'm Hemankumar C
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemankumar2501&label=Profile%20views&color=0e75b6&style=flat" alt="hemankumar2501" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Smart Tourism AI Platform & Stock Market Prediction Models**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=200&section=header&text=Hemankumar%20C&fontSize=60&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20AI%20Developer&descAlignY=60&descAlign=50&fontColor=FFFFFF&animation=twinkling" />
 
-- 🌱 I’m currently learning **Advanced Machine Learning, Next.js & Full-Stack AI Integration**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Python+%26+Data+Analytics+Developer+%F0%9F%90%8D;Building+AI-Powered+Solutions+%F0%9F%9A%80;Learning%2C+Building+%26+Growing+Every+Day+%E2%9A%A1" />
 
-- 🤝 I’m looking for help with **Open-source AI projects and Data Science research**
+<br/>
 
-- 💬 Ask me about **ython, Machine Learning, TypeScript, SQL, and Data Analytics**
+![Profile Views](https://komarev.com/ghpvc/?username=Hemankumar2501&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/Hemankumar2501?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000&label=FOLLOWERS)
 
-- 📫 How to reach me **hemankumar.chandrasekar@gmail.com**
+</div>
 
-- ⚡ Fun fact **I can make an AI plan your entire vacation while predicting stock prices! 🤖📈**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hemankumar c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemankumar c" height="30" width="40" /></a>
-<a href="https://instagram.com/ur__hemzz__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ur__hemzz__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/★hemankumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="★hemankumar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hemankumar.chandrasekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hemankumar.chandrasekar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hemankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemankumar" height="30" width="40" /></a>
-</p>
+## 🧑‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+I'm **Hemankumar C**, an Artificial Intelligence and Data Science engineering graduate from **Tagore Engineering College, Chennai (2026)**, passionate about building intelligent applications and solving real-world problems using technology.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemankumar2501&show_icons=true&locale=en&layout=compact" alt="hemankumar2501" /></p>
+I have a strong interest in **Artificial Intelligence, Machine Learning, Data Science, Python Programming, and Full-Stack Development**. I enjoy exploring emerging technologies, experimenting with AI-powered applications, and transforming ideas into practical solutions.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemankumar2501&show_icons=true&locale=en" alt="hemankumar2501" /></p>
+- 🎓 B.Tech in Artificial Intelligence & Data Science.
+- 🤖 Interested in AI Engineering, Machine Learning & Generative AI.
+- 🐍 Working with Python, SQL, Pandas & NumPy.
+- 📊 Interested in Data Analytics and Predictive Modeling.
+- 🚀 Building AI-powered projects and interactive applications.
+- 🌱 Continuously learning and improving my technical skills.
+- 🎯 Aspiring AI Engineer passionate about innovation and problem-solving.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemankumar2501&" alt="hemankumar2501" /></p>
+---
 
+## 💻 Technical Skills
 
-<!--
-**Hemankumar2501/Hemankumar2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
+
+### AI, Machine Learning & Data Science
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-00A98F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,threejs&theme=dark" />
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. OpsMind AI – Enterprise AI Business Operations Copilot
+
+An AI-powered business operations platform featuring a multi-agent architecture and Semantic Retrieval-Augmented Generation (RAG), designed to support intelligent information retrieval and business workflow assistance.
+
+**Tech Stack:** React 19, TypeScript, Three.js, Express, Semantic RAG.
+
+[🔗 View Repository](https://github.com/Hemankumar2501/opsmind-AI)
+
+### 2. AI-Driven Smart Tourism Analytics Platform
+
+An AI-powered tourism analytics solution designed to analyze travel trends, destination popularity, and user preferences. Uses data preprocessing, exploratory data analysis, and machine learning concepts to generate meaningful insights.
+
+**Tech Stack:** Python, SQL, Pandas, NumPy, Power BI, Machine Learning.
+
+[🔗 View Repository](https://github.com/Hemankumar2501/Smart-Tourism-AI-Platform)
+
+### 3. TruthLens AI
+
+An AI-focused project exploring intelligent information analysis and AI-powered solutions.
+
+**Tech Stack:** Python.
+
+[🔗 View Repository](https://github.com/Hemankumar2501/TruthLens-Ai)
+
+### 4. AlloyNext – Career & Application Management
+
+A career-focused application concept designed to support resume management, job application tracking, and career-related workflows.
+
+[🔗 View Repository](https://github.com/Hemankumar2501/Alloynext-)
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **Second Place – UI/UX Design Symposium:** Secured second place in a UI/UX Design Symposium event at Gojan School of Business and Technology.
+- 🎯 **TCS National Qualifier Test (NQT):** Achieved an overall score of 67%.
+
+---
+
+## 💼 Internship Experience
+
+**AI & ML Intern – NSIC Technical Services Centre, Chennai**
+*August 2024 – September 2024*
+
+Gained hands-on exposure to Artificial Intelligence and Machine Learning concepts, data preprocessing, machine learning algorithms, predictive modeling, and model evaluation techniques.
+
+**Data Science Intern – Arjun Vision Tech Solutions, Chennai**
+*September 2024 – October 2024*
+
+Performed data collection, preprocessing, and exploratory data analysis using Python. Utilized Pandas, NumPy, and Matplotlib to identify data patterns, generate insights, and support machine learning and predictive analytics tasks.
+
+---
+
+## 📜 Certifications
+
+- AWS Certified Cloud Practitioner (CLF-C02) – LinkedIn Learning
+- Introduction to Data Engineering and Big Data – GUVI & HCL
+- Python Programming Mastery 2024 – Udemy
+- Data Science & Analytics – HP LIFE
+- Cloud Infrastructure & Data Engineering – Google Cloud Skills Boost
+
+---
+
+## 🌱 Currently Exploring
+
+- Generative AI and Large Language Models.
+- Machine Learning and Predictive Analytics.
+- Retrieval-Augmented Generation (RAG).
+- AI Agents and Multi-Agent Systems.
+- Full-Stack Application Development.
+- Data Engineering and Intelligent Applications.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemankumar2501&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemankumar2501&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Hemankumar2501&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Hemankumar2501">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hemankumar.chandrasekar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Turning Ideas into Intelligence, and Intelligence into Impact."
+
+**⭐ Building. Learning. Innovating. Growing.**
+
+*Made with ❤️ by Hemankumar C*
+
+</div>
