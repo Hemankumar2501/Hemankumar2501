@@ -182,19 +182,8 @@ Performed data collection, preprocessing, and exploratory data analysis using Py
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hemankumar2501&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemankumar2501&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=Hemankumar2501&theme=tokyonight&hide_border=true" />
-
+  <img src="https://raw.githubusercontent.com/Aarthi07-V/Aarthi07-V/main/github-user-contribution.svg" alt="GitHub Contributions" />
 </div>
-
----
-i want this as a anime game
 
 ## 🤝 Connect With Me
 
