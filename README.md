@@ -34,28 +34,64 @@ I have a strong interest in **Artificial Intelligence, Machine Learning, Data Sc
 
 ## 💻 Technical Skills
 
-### Programming Languages
+<table align="left">
+  <tr>
+    <td><strong>Category</strong></td>
+    <td><strong>Technologies & Skills</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,js,ts" height="35"/><br/>
+      Python, JavaScript, TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI & Machine Learning</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,sklearn" height="35"/><br/>
+      Artificial Intelligence, Machine Learning, Predictive Modeling, Generative AI
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Science</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=numpy" height="35"/>
+      <img src="https://cdn.simpleicons.org/pandas/150458" height="35"/><br/>
+      Pandas, NumPy, Matplotlib, Data Analysis, EDA, Power BI
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,ts" height="35"/><br/>
+      HTML, CSS, React.js, TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" height="35"/><br/>
+      Node.js, Express.js
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" height="35"/><br/>
+      SQL, MySQL, Database Management
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="35"/><br/>
+      Git, GitHub, VS Code
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
-
-### AI, Machine Learning & Data Science
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-00A98F?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-### Frontend & Backend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,threejs&theme=dark" />
-
-### Database & Development Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
-
----
+<br clear="left"/> 
 
 ## 🚀 Featured Projects
 
