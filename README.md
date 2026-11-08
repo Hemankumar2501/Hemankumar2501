@@ -180,52 +180,10 @@ Performed data collection, preprocessing, and exploratory data analysis using Py
 ---
 
 
-<div align="center">
-
-# ⚡ GITHUB DEVELOPER PROFILE
-
-<img src="assets/github-anime-profile.png" width="100%" alt="Anime GitHub Profile Dashboard" />
-
-### HEMANKUMAR C
-**AI & Data Science Engineer**
-
-*Dream • Code • Build • Repeat*
-
-</div>
-
----
-
-## 🎮 PLAYER ANALYTICS
+<## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hemankumar2501&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemankumar2501&layout=compact&theme=chartreuse-dark&hide_border=true" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=Hemankumar2501&theme=chartreuse-dark&hide_border=true" width="80%" />
-
-</div>
-
-## 🐍 CONTRIBUTION QUEST
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Hemankumar2501/Hemankumar2501/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
-## 🏆 FEATURED PROJECTS
-
-- [OpsMind AI](https://github.com/Hemankumar2501/opsmind-AI)
-- [TruthLens AI](https://github.com/Hemankumar2501/TruthLens-Ai)
-- [SmartCity Tourism](https://github.com/Hemankumar2501/SmartCity-Tourism)
-- [AlloyNext](https://github.com/Hemankumar2501/Alloynext-)
-
-<div align="center">
-
-**TURNING IDEAS INTO INTELLIGENCE.**
-
+  <img src="https://raw.githubusercontent.com/Aarthi07-V/Aarthi07-V/main/github-user-contribution.svg" alt="GitHub Contributions" />
 </div>
 
 ## 🤝 Connect With Me
