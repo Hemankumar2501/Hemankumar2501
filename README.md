@@ -125,6 +125,7 @@ An AI-focused project exploring intelligent information analysis and AI-powered 
 [🔗 Explore Repository](https://github.com/Hemankumar2501/TruthLens-Ai)
 
 ### 04. AlloyNext – Career & Application Management
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:123B68&height=90&text=ALLOYNEXT%20AI%20&fontSize=28&fontColor=00D4FF" />
 
 A career-focused application designed to support resume management, job application tracking, and career-related workflows.
 
